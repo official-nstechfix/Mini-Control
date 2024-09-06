@@ -60,5 +60,7 @@ For users who prefer browsing in dark mode, we’ve added a theme toggle that al
 Follow these steps to install the extension in Chrome:
 
 1. **Download or Clone** the repository:
+
+2. 
    ```bash
-   git clone https://github.com/official-nstechfix/Mini-Controls.git
+   git clone https://github.com/official-nstechfix/Mini-Control.git
