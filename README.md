@@ -61,4 +61,4 @@ Follow these steps to install the extension in Chrome:
 
 1. **Download or Clone** the repository:
    ```bash
-   git clone https://github.com/nstechfix/Modern-Control.git
+   git clone https://github.com/official-nstechfix/Mini-Controls.git
