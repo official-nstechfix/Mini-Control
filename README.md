@@ -46,10 +46,10 @@ For users who prefer browsing in dark mode, we’ve added a theme toggle that al
 ## 📸 Screenshots
 
 ![Extension Preview Light Mode]
-*Light mode view with media controls.*![Light](https://github.com/user-attachments/assets/1fe7625f-65b7-41f6-a183-8d1d02264535)
+*Light mode view with media controls.*![Light](https://github.com/official-nstechfix/Projects-Templates/blob/main/Extensions/Mini%20Control/Light.png)
 
 
-![Extension Preview Dark Mode]![Dark](https://github.com/user-attachments/assets/19c749ba-ba3c-42dd-956f-d27427e9e6fc)
+![Extension Preview Dark Mode]![Dark](https://github.com/official-nstechfix/Projects-Templates/blob/main/Extensions/Mini%20Control/Dark.png)
 
 *Dark mode view with media controls.*
 
